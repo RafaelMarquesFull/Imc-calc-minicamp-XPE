@@ -1,0 +1,36 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(94, 84, 84);
+  display: auto;
+}
+#paragraph-result {
+  margin-top: 30px;
+}
+section {
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+
+  border: solid 4px color rgb(0, 0, 0);
+  padding: 20px;
+  background-color: rgb(0, 136, 255);
+}
+h1 {
+  text-align: center;
+  color: aliceblue;
+  font-size: 32px;
+  letter-spacing: 25px;
+}
+input {
+  width: 170px;
+  margin-bottom: 10px;
+}
+label {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#imc-result {
+  font-size: 32px;
+  color: beige;
+}
